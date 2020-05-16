@@ -1,3 +1,4 @@
+<style>header a {display:none}</style>
 # GolfScript.js
 
 ## A full JavaScript interpreter for GolfScript
