@@ -1,4 +1,3 @@
-<style>header a {display:none}</style>
 # GolfScript.js
 
 ## A full JavaScript interpreter for GolfScript
@@ -15,3 +14,4 @@ You can test some GolfScript in your browser below
 {.@\%.}do;</textarea>
 <button onclick="get('output').innerText=GolfScript(get('code').value)">Go</button>
 <pre id="output"></pre>
+<style>header a {display:none}</style>
